@@ -1,2 +1,2 @@
-# Ford-Fulkerson-Algoritmas-
+# Ford-Fulkerson-Algoritması-
 Ford Fulkerson Algoritması Örneği
